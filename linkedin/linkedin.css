@@ -1,0 +1,136 @@
+body{
+    background-color: white;
+    margin: 150px;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+nav{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.div1{
+width: 50%;
+
+}
+.div2{
+   
+    display: flex; 
+    border-right: 1px dotted black;
+    
+}
+.div2 a{
+    text-decoration: none;
+    color: black;
+   
+    
+}
+
+.div3 button{
+   
+    
+}
+
+
+    
+
+#joinnow{
+    border: none;
+    background-color: white;
+    font-family: sans-serif;
+    font-weight: bold;    
+}
+
+
+#signin{
+  border-radius: 30px;
+  border-color: blue;
+  color: blue;
+  background-color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  width: 90px;
+  height: 50px;
+}
+form{
+   font-weight: bold;
+}
+
+.div-center{
+    padding: 20px;
+    text-align: center;
+   
+}
+.form-1{
+    width: 50%;
+       
+}
+h1{
+    color: #8f5849;
+    opacity: 1;
+    font-weight: lighter;
+    font-style: initial;
+    font-size: 250%;
+}
+.input-form{
+    border: 2px solid black;
+    border-radius: 5px ;
+    width: 50vh;
+    height:6vh;
+}
+#forgetpassword{
+    color: #0077b5;
+    font-style:normal;
+}
+#signin2{
+    border: none;
+    background-color:#0077b5;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 50px ;
+    width: 50vh;
+    height:6vh;
+}
+#google{
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 50px ;
+    width: 50vh;
+    height:6vh;
+    opacity: 0.8;
+}
+#newto{
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 50px ;
+    width: 50vh;
+    height:6vh;
+    opacity: 0.8;
+}
+p{
+    text-align: center;
+    opacity: 0.8;
+
+}
+.h5label{
+    opacity: 0.8; 
+}
+.lastbtn{
+    font-weight: bold;
+}
+#or{
+    opacity: 0.8;
+}
+a:hover{
+    color: #0077b5;
+}
+a :hover{
+    color: #0077b5;
+}
+button:hover{
+    color: rgb(73, 73, 252);
+}
+
